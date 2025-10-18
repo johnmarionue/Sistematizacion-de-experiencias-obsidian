@@ -13,3 +13,4 @@ Flujo de Trabajo Diario
 1. No entrar en pánico
 2. Avisar al equipo por WhatsApp/email
 3. Seguir [esta guía](enlace-a-instrucciones-de-conflictos)
+
